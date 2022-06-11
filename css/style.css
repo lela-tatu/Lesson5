@@ -1,0 +1,138 @@
+*{ 
+    box-sizing : border-box 
+} 
+    /*header styles*/
+
+.logo{
+    vertical-align: middle;
+    padding: 10px;
+}
+.img{
+    vertical-align: middle;   
+}
+.nav{
+    display: inline-block;
+       vertical-align: middle;      
+       padding: 30px;
+       text-decoration: none;
+       font-size: 12px;
+       color: grey;
+       font-weight: bold;      
+}
+
+.li-class{
+    display: inline-block;            
+}
+.a{
+    text-decoration: none;
+    font-size: 3px;
+    color: grey;
+    font-style: normal
+}
+
+/*section styles */
+
+.section1 {
+   display: inline-block; 
+   width: 1160px;
+   height: 360px;
+   padding: auto;
+   margin-left: 115px;   
+   
+  
+}
+
+ /*div box */
+
+.container1{
+     display: inline-block;
+     width: 360px;
+     height: 350px;       
+     margin: 0px 20px 0 0;
+     margin: auto;
+     border: #707070;
+     background: #F6F8F9;
+     
+}
+.container2{
+     display: inline-block;     
+     width: 360px;
+     height: 350px;    
+     margin-left: 36px;
+     border: #707070;
+     background: #F6F8F9;                   
+}
+.container3{
+     display: inline-block;     
+     width: 360px;
+     height: 350px;
+     margin-left: 36px;
+     border: #707070;
+     background: #F6F8F9;
+}
+.container4{
+    display: inline-block;
+    max-width: 760px;
+    padding: auto;
+    border: #707070;
+}
+.container5{
+          
+    display: inline-block;
+    max-width:360px;
+    padding: auto;   
+    vertical-align: top;
+    margin-left: 30px;
+    margin-top: 40px;
+    border: #707070;
+}
+
+
+.p{
+    
+   font-size: 13px;
+   margin: 55px 0px 0px 50px;   
+   width: 280px;
+   color: grey;
+   font-weight: bold;
+   
+   
+
+}
+
+  .h2{
+   
+   font-size: 25px;
+   font-style: normal;
+   margin-left: 115px;
+   padding: 40px 40px 40px 0px;
+   padding: auto;
+  } 
+.h3{
+   font-size: 25px;
+   font-style: normal;     
+   margin-left: 5px;
+   padding: 40px 40px 40px 0px;
+   padding: auto;
+
+  } 
+ 
+/*image styles */
+
+.img{
+    
+    padding-bottom: 40px;
+} 
+
+.img6{
+    vertical-align: top;
+    padding-bottom: 70px;    
+    width: 360px;
+    padding: auto;    
+}
+.img1{
+    vertical-align:middle;  
+
+
+
+
